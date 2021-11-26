@@ -1,0 +1,6 @@
+me\rochblondiaux\encryption\files\EncryptedStream.class
+me\rochblondiaux\encryption\SecurityManager.class
+me\rochblondiaux\encryption\files\AESEncryptedStream.class
+me\rochblondiaux\encryption\keys\AESKeyProvider.class
+me\rochblondiaux\encryption\keys\KeyProvider.class
+me\rochblondiaux\encryption\DefaultSecurityManager.class
